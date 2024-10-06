@@ -162,7 +162,7 @@ import Azure from './imagens/SGSK_Azure_ID.jpg'
 import LilNed from './imagens/MD_LilNed_ID.jpg' 
 import Zee from './imagens/HB_Zee_ID.jpg' 
 import Liam from './imagens/HB_Liam_ID.jpg' 
-import North from './imagens/HB_Liam_ID.jpg' 
+import North from './imagens/HB_North_ID.jpg' 
 import Homer from './imagens/PBP_Homer_ID.jpg'
 import Benson from './imagens/PBP_Benson_ID.jpg'
 import Brickborn from "./imagens/SGEG_Brickborn.jpg"
